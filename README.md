@@ -1,2 +1,1 @@
-# Using-merge-for-insert--and-update.
-Merge
+# Using-merge-for-insert--and-update in sql server.
